@@ -1,2 +1,8 @@
-# WMC6-2425-RittJan
-WMC Learning Path
+###### <p align="center"> WMC-Learning-Path </p>
+ 
+##### <p align="right"> Document your progress by creating summaries and programming the examples.  </p>
+##### <p align="right"> Push this documentation to your GitHub repo to verify the work you've completed. </p>  
+
+## *Documentation of my learning Path:* 
+- []()
+- []()
